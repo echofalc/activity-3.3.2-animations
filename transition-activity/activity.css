@@ -17,7 +17,7 @@ img {
 .caption {
     position: relative;
     overflow: hidden;
-    border: solid 1px red;
+    /* border: solid 1px red; */
 }
 
 .caption-overlay h1 {
